@@ -1,0 +1,23 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrhumster/cypress-test-example.git"
+  },
+  "keywords": [
+    "cpyres",
+    "test"
+  ],
+  "author": "Anton Khomyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhumster/cypress-test-example/issues"
+  },
+  "homepage": "https://github.com/mrhumster/cypress-test-example#readme"
+}
